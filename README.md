@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, It's Himali Deshpande
+#### weaving innovation into every project.
+![weaving innovation into every project.](https://64.media.tumblr.com/dd430bc98e49b4f2ca20b000394e4489/8fb053bd6e7d61d4-5e/s1280x1920/939ef322487ec575fbb635a5289ececccb68a233.pnj)
 
-<!--
-**HimaliDeshpande/HimaliDeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Himali Deshpande, an aspiring web developer and first-year BE Computer Engineering student. I love creating dynamic websites using HTML, CSS, and JavaScript. I'm also learning C and C++ to build a strong programming foundation. Excited to learn, collaborate, and innovate in the world of web development. Let's connect and create something amazing together!
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Html Learning 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HimaliDeshpande)  
+
